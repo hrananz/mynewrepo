@@ -1,4 +1,2 @@
-Adding text to the text file
-
 I am now working on my local temp branch. Github does not have this branch.
 Let's see what will happen when i commit this file now.
